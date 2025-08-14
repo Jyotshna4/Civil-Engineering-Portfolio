@@ -1,1 +1,17 @@
+# 🏗 Steel Structure Modeling & Load Analysis – STAAD.Pro
+
+##  Overview
+This project involves the modeling and load analysis of a steel beam-and-plate structure using **STAAD.Pro Connect Edition**.  
+The analysis applies **dead loads** (self-weight) and **live loads** (uniform plate loads, point loads) to simulate realistic industrial conditions.  
+The results include **support reactions**, **bending moments**, **shear forces**, **axial loads**, and **deflections**.
+
+##  Objectives
+- Model a beam-and-plate steel structure in STAAD.Pro
+- Apply dead loads (self-weight) and live loads
+- Define load combinations (DL+LL)
+- Calculate structural responses: reactions, moments, shear, axial loads, deflections
+- Verify stability for industrial facility applications
+
+## 🛠 Tools Used
+- STAAD.Pro Connect Edition
 
